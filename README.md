@@ -3,6 +3,8 @@
 
 Welcome to the Batman Fanbase Website repository! This project aims to create a fun and engaging website dedicated to Batman fans, bringing together an exciting collection of content related to the Dark Knight. Whether you're a longtime Batman aficionado or just discovering the Caped Crusader, this website is designed to provide a comprehensive and immersive experience for fans of all ages. 🌃🦇
 
+
+
 ![PROJECT1](https://github.com/Usamahussain56/batmancomics/assets/118635657/875f0281-ead5-4729-a66f-70f861d20221)
 
 🎉 **Features**
@@ -15,7 +17,14 @@ Welcome to the Batman Fanbase Website repository! This project aims to create a 
 🌐 **Hosted on Netlify**
 
 The Batman Fanbase Website will be hosted on Netlify, a powerful platform for deploying and hosting static websites. Netlify provides reliable hosting, automatic deployment from Git repositories, HTTPS support, and other essential features to ensure the website is accessible to fans worldwide. With Netlify's robust infrastructure, the Batman Fanbase Website will be available 24/7, allowing fans to access their favorite Batman content whenever they want.
+
+
+
 ![project01](https://github.com/Usamahussain56/batmancomics/assets/118635657/9dae1965-e3ca-48ff-9920-28817a8419fd)
+
+
+
+
 📋 **Requirements**
 
 
