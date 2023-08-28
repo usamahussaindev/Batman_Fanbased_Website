@@ -1,7 +1,7 @@
 
-🦇 **Batman Fanbase Website**
+😎 **Batman Fanbase Website**
 
-Welcome to the Batman Fanbase Website repository! This project aims to create a fun and engaging website dedicated to Batman fans, bringing together an exciting collection of content related to the Dark Knight. Whether you're a longtime Batman aficionado or just discovering the Caped Crusader, this website is designed to provide a comprehensive and immersive experience for fans of all ages. 🌃🦇
+Welcome to the Batman Fanbase Website repository! This project aims to create a fun and engaging website dedicated to Batman fans, bringing together an exciting collection of content related to the Dark Knight. Whether you're a longtime Batman aficionado or just discovering the Caped Crusader, this website is designed to provide a comprehensive and immersive experience for fans of all ages. 🌃 😎
 
 
 
